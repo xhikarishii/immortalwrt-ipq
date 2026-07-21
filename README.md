@@ -1,3 +1,8 @@
+This repo is a mix of [nss fork for IPQ807x](https://github.com/qosmio/openwrt-ipq) and [Immortalwrt](https://github.com/immortalwrt/immortalwrt).
+
+Following is the README.md of nss fork, for someone who are loooking for immortalwrt, please visit https://github.com/immortalwrt/immortalwrt/blob/master/README.md
+
+
 # NSS Support Matrix
 
 | Feature   | IPQ807x | IPQ60xx | Feature         | IPQ807x | IPQ60xx |
